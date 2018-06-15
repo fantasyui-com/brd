@@ -1,0 +1,24 @@
+{
+  "name": "brd",
+  "version": "1.0.0",
+  "description": "System for describing and building scalable online businesses in plain text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/brd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/brd/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/brd#readme",
+  "dependencies": {
+    "chickpea": "^1.5.0",
+    "civilized": "^1.0.3"
+  }
+}
