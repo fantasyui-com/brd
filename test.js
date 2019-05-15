@@ -1,3 +1,7 @@
+
+//TODO: test via rebot#readme parsing, that readme should be all that
+// is needed to create the entire rebot program.
+
 const path = require('path');
 const assert = require('assert');
 const program = require('./index.js');
