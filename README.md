@@ -31,3 +31,8 @@ Start
 ## Product vs. Program
 
 A program is something you can download and use sometimes, a product is something you can sell.
+
+## Notes
+
+```brd https://github.com/fantasyui-com/rebot``` should (re)create
+the entire rebot program from scratch based on its readme file.
