@@ -19,6 +19,6 @@
   "homepage": "https://github.com/fantasyui-com/brd#readme",
   "dependencies": {
     "chickpea": "^1.7.0",
-    "outspoken": "^1.2.0"
+    "outspoken": "^1.3.0"
   }
 }
