@@ -1,6 +1,6 @@
 {
   "name": "brd",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "System for describing and building scalable online businesses in plain text.",
   "main": "index.js",
   "scripts": {
